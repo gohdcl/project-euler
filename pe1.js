@@ -7,3 +7,4 @@ function pe1 () {
   }
 return total;
 }
+pe1();
